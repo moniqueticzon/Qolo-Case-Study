@@ -2,8 +2,8 @@
 
 ## Overview and Origin
 ![Qolo Logo](images/Qolo_logo.jpg)
-* Founded in 2018
-* Founders:
+Founded in 2018
+Founders
     
     ![](images/Patricia_Montesi.jfif)
     Patricia Montesi - *CEO*
@@ -16,8 +16,8 @@
     
     ![](images/Robert_Pincus.jfif)
     Robert Pincus - *Chief Operating Officer*
-* The birth of the Qolo platform stemmed from the company's mission to make complex payment transactions simple for business-to-business transactions. The "all-in-one" payments solution was officially launched in June 2020.
-* This company is privately funded and Dun & Bradstreet reports that their annual revenue for 2020 (fiscal year end in October) is $174,088 USD.
+The birth of the Qolo platform stemmed from the company's mission to make complex payment transactions simple for business-to-business transactions. The "all-in-one" payments solution was officially launched in June 2020.
+This company is privately funded and Dun & Bradstreet reports that their annual revenue for 2020 (fiscal year end in October) is $174,088 USD.
 
 ## Business Activities
 
@@ -63,7 +63,7 @@ The total global value of the target customers is estimated to be more than $27 
 
 ## Recommendations
 
-* **Recommended Services**
+* **Services**
     * Prioritize their payments solution to serve the gig economy within the cross-border payments arena. This will require Qolo to provide cross-border real-time payment, which they plan on doing in 2021.
     * Gig workers say:
         
@@ -86,7 +86,7 @@ The total global value of the target customers is estimated to be more than $27 
 * **Appropriate Technology?**
     
     * Qolo's constant improvement of both technologies will address the gig economy's needs. 
-    *  A single API gateway allows Qolo to streamline and lower costs of business payments. Qolo can easily integrate their platform with clients' systems. 
+    * A single API gateway allows Qolo to streamline and lower costs of business payments. Qolo can easily integrate their platform with clients' systems. 
     * Crypto technology will allow clients to pay their gig workers in different forms of value. 
 
 ---
