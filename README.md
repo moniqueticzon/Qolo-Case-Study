@@ -3,9 +3,21 @@
 ## Overview and Origin
 ![Qolo Logo](images/Qolo_logo.jpg)
 * Founded in 2018
-* Founders: Patricia Montesi, Darren Beyer, Steven Bishop, and Robert Pincus
-* The birth of the Qolo platform stemmed from the company's mission to make complex payment transactions simple for business-to-business transactions. The payments solution was officially launched in June 2020.
-* This company is privately funded and Dun & Bradstreet reports that their annual revenue for 2020 is $174,088 USD.
+* Founders:
+    
+    ![](images/Patricia_Montesi.jfif)
+    Patricia Montesi - *CEO*
+    
+    ![](images/Darren_Beyer.jfif)
+    Darren Beyer - *Chief Product and Strategy Officer*
+    
+    ![](images/Steven_Bishop.jfif)
+    Steven Bishop - *Chief Information Officer*
+    
+    ![](images/Robert_Pincus.jfif)
+    Robert Pincus - *Chief Operating Officer*
+* The birth of the Qolo platform stemmed from the company's mission to make complex payment transactions simple for business-to-business transactions. The "all-in-one" payments solution was officially launched in June 2020.
+* This company is privately funded and Dun & Bradstreet reports that their annual revenue for 2020 (fiscal year end in October) is $174,088 USD.
 
 ## Business Activities
 
@@ -16,13 +28,13 @@ The B2B payments market within the payments industry is largely untapped by digi
 ### Target Market 
 
 The company's intended customers are businesses involved in cross-border B2B payments.
-The total value of the target customers is estimated to be more than $27 trillion and is expected to reach $35 trillion in 2022. These values vary among several market research resources by about $4-$5 trillion.
+The total global value of the target customers is estimated to be more than $27 trillion and is expected to reach $35 trillion in 2022. These values vary among several market research resources by about $4-$5 trillion.
     
 ### Competitive Advantage
 
-**Interact** - Qolo's Embedded Processing capability, allows clients to be actively involved in each transaction. Qolo implements their processing functionality by directly integrating it into the clients' platform. Clients aren't required to develop and build their own platform to accomodate their needs. This allows clients to maximize their capabailities with an easy-to-use, integrated platform.
+**Interact** - Qolo's Embedded Processing capability, allows clients to be actively involved in each transaction. Qolo implements their processing functionality by directly integrating it into the clients' platform. Clients are not required to develop and build their own platform to accomodate their needs. This allows clients to maximize their capabailities with an easy-to-use, integrated platform.
 
-**Technologies** - Qolo's comprehensive platform is flexible and does not require clients to go with a one-size-fits-all approach. Qolo does not disclose their proprietary technology, but the following is a high-level overview extracted from the Qolo website.
+**Technologies** - Qolo's comprehensive platform is flexible and does not require clients to go with a one-size-fits-all approach. Qolo does not disclose their proprietary technology, but the following is a high-level overview extracted from the Qolo website. They have filed multiple patents on their technology as they have built the platform nearly from scratch.
 
 * Payments Hub - an omnichannel payment hub
 * Accounts - proprietary rules engine
@@ -30,34 +42,52 @@ The total value of the target customers is estimated to be more than $27 trillio
 
 ## Landscape:
 
-* Qolo is in the Payments/Billing domain and sees a future in the cross-border B2B payments arena.
+* Qolo is in the **Payments/Billing** domain and sees a future in the cross-border B2B payments arena.
 
-* This domain has been slowly moving toward cashless payments within the last 5-10 years and now has come to an accelerated pace with the emergence of the COVID-19 pandemic. Artificial intelligence, blockchain, and machine learning as well as the innovation of real-time payments are disrupting cross-border B2B payments. Checks and bank transfers still take up the largest payment volume in B2B payments, but now B2B companies are diversifying payment methods. The decline of paper payment methods is at a much slower rate than the decline of those methods within the P2P payments arena.
+* **Major Trends and Innovations** - This domain has been slowly moving toward cashless payments within the last 5-10 years and now has come to an accelerated pace with the emergence of the COVID-19 pandemic. Artificial intelligence, blockchain, and machine learning as well as the innovation of real-time payments are disrupting cross-border B2B payments. Checks and bank transfers still take up the largest payment volume in B2B payments, but now B2B companies are diversifying payment methods. The decline of paper payment methods is at a much slower rate than the decline of those methods within the P2P payments arena.
 
-* Major Players: PayPal, TransferWise, moneycorp, Visa B2B Connect, Remitly, Stripe, Tipalti, and Flywire
+* **Major Players** - PayPal, TransferWise, moneycorp, Visa B2B Connect, Remitly, Stripe, Tipalti, and Flywire
   
 ## Results
 
-* **Qolo's Impact** - Qolo has recently partnered with moneycorp to research alternative innovative solutions to improve efficiency around digital payments, especially in foreign exchange markets.
+* **Qolo's Impact** - Qolo has emerged as an "all-in-one" payments solution as this category is becoming increasingly common within the payments/billing domain. Qolo has recently partnered with moneycorp to research alternative innovative solutions to improve efficiency around digital payments, especially in foreign exchange markets. Upon Qolo completing integration with moneycorp, many businesses who seek cross-border payments capability are showing interest in what Qolo and moneycorp have to offer.
 
 * **Core Metrics**
     1. Speed - most important for AP professionals' suppliers
     2. Security - needs tremendous improvement in reliability and security
     3. Costs - reduce fees with foreign currency transactions
 
-* **Qolo's Performance** - Qolo is focusing on embedded processing, payments solutions, and cross-currency payments. With Qolo being a relatively new player in this domain, there is not much available information to gauge how well Qolo is doing compared to the core metrics and its competitors. However, Qolo has been able to identify the key areas to focus on for the future of this domain in order to tap into the underserved cross-border payments arena.
+* **Qolo's Performance** - Qolo is focusing on embedded processing, payments solutions, and cross-currency payments. With Qolo being a relatively new player in this domain, there is not much available information to gauge how well Qolo is doing compared to the core metrics and the core metrics of its competitors. However, Qolo has been able to identify the key areas to focus on for the future of this domain in order to tap into the underserved cross-border payments arena.
 
     > "In terms of 5-10 years out, we feel international B2B payments is the biggest and most underserved area. Nearly $25 trillion a year of international trade and services business is conducted through banks. Companies are paying 3% in fees – they are overpaying, it isn’t automated, it is horribly inefficient and is ripe for disruption. When you combine this with an advanced AR/AP capability (something we have filed patents on), the opportunity is there to dramatically streamline and lower costs of business payments." - *Patricia Montesi, CEO of Qolo*
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* **Recommended Services**
+    * Prioritize their payments solution to serve the gig economy within the cross-border payments arena. This will require Qolo to provide cross-border real-time payment, which they plan on doing in 2021.
+    * Gig workers say:
+        
+        * Would rather receive digital paychecks
+        * Payout times are lengthy
+        * Clients often do not pay gig workers on time
+        * Payment processing fees are a problem
+         
 
-* Why do you think that offering this product or service would benefit the company?
+* **Benefits** 
+    
+    * Freelancers choose which platform to use based on the payout timing and efficiency. These freelancers rely on the platforms to handle the cross-border regulatory requirements. 
+    * If Qolo focuses all their efforts with moneycorp to address the gig economy's top concerns, they will get a head start in capturing this market and over time the gig economy will shift away from traditional financial institutions.
 
-* What technologies would this additional product or service utilize?
+* **Technologies Utilized** 
+    
+    * Single API gateway 
+    * Crypto technology
 
-* Why are these technologies appropriate for your solution?
+* **Appropriate Technology?**
+    
+    * Qolo's constant improvement of both technologies will address the gig economy's needs. 
+    *  A single API gateway allows Qolo to streamline and lower costs of business payments. Qolo can easily integrate their platform with clients' systems. 
+    * Crypto technology will allow clients to pay their gig workers in different forms of value. 
 
 ---
 
@@ -77,3 +107,6 @@ The total value of the target customers is estimated to be more than $27 trillio
 * [Global B2B Payment Trends 2020 - Global B2B Payments Turn Digital - ResearchAndMarkets.com](https://www.businesswire.com/news/home/20200211005820/en/)
 * [B2B Payments Hub, Qolo, Partners with Cross-Border Payments Provider, moneycorp, to Launch FX Payment Solution](https://www.crowdfundinsider.com/2020/08/164818-b2b-payments-hub-qolo-partners-with-cross-border-payments-provider-moneycorp-to-launch-fx-payment-solution/)
 * [B2B Cross-Border Payments Are Speeding Up](https://www.pymnts.com/news/payment-methods/2019/b2b-cross-border-payments-are-speeding-up/)
+* [Why the 'all-in-one' channel is rising in B2B payments](https://www.paymentssource.com/news/why-the-all-in-one-channel-is-rising-in-b2b-payments)
+* [Meeting The Payments Needs Of Cross-Border Gig Workers](https://www.pymnts.com/gig-economy/2020/meeting-payments-needs-cross-border-gig-workers/)
+* [The Growing Gig Economy](https://www.moneycorp.com/en-us/business/industry-expertise/gig-economy/)
