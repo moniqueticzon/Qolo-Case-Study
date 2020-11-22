@@ -5,7 +5,7 @@
 
 Founded in 2018
 
-**Founders**
+**[Founders](https://qolo.io/about)** 
     
 ![](images/Patricia_Montesi.jfif)
     Patricia Montesi - *CEO*
