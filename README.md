@@ -2,20 +2,23 @@
 
 ## Overview and Origin
 ![Qolo Logo](images/Qolo_logo.jpg)
+
 Founded in 2018
-Founders
+
+**Founders**
     
-    ![](images/Patricia_Montesi.jfif)
+![](images/Patricia_Montesi.jfif)
     Patricia Montesi - *CEO*
     
-    ![](images/Darren_Beyer.jfif)
+![](images/Darren_Beyer.jfif)
     Darren Beyer - *Chief Product and Strategy Officer*
     
-    ![](images/Steven_Bishop.jfif)
+![](images/Steven_Bishop.jfif)
     Steven Bishop - *Chief Information Officer*
     
-    ![](images/Robert_Pincus.jfif)
+![](images/Robert_Pincus.jfif)
     Robert Pincus - *Chief Operating Officer*
+
 The birth of the Qolo platform stemmed from the company's mission to make complex payment transactions simple for business-to-business transactions. The "all-in-one" payments solution was officially launched in June 2020.
 This company is privately funded and Dun & Bradstreet reports that their annual revenue for 2020 (fiscal year end in October) is $174,088 USD.
 
